@@ -1,0 +1,4 @@
+[Controls]
+Left: L Arrow / A
+Right: R Arrow/ D
+Ascend: Space
